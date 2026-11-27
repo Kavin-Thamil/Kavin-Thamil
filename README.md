@@ -1,47 +1,50 @@
+```markdown
 # Kavin Thamil
 
-Software Developer | Full-Stack Development
+Software Developer
 
-I build web applications, backend services and containerised systems, with an interest in software architecture, databases and application development.
+I enjoy building web applications, working with backend systems, and figuring out how things fit together.
 
-Currently working with React, Node.js, PostgreSQL and Docker.
+Currently exploring full-stack development, databases and Docker.
 
 ---
 
-### Technologies
+### Tech Stack
 
 **Languages:** JavaScript, Python
 
 **Frontend:** React, HTML5, CSS3
 
-**Backend:** Node.js, Express.js, Django, Flask, REST APIs
+**Backend:** Node.js, Express.js, Django, Flask
 
 **Databases:** PostgreSQL, MySQL
 
-**Tools & Infrastructure:** Docker, Docker Compose, Git, Linux
+**Tools:** Docker, Docker Compose, Git, Linux
 
-**Cloud:** AWS (EC2, S3, VPC, RDS, ALB, CloudWatch, SNS)
+**Cloud:** AWS
 
 ---
 
 ### Projects
 
 **[Machine Downtime Tracker](https://github.com/Kavin-Thamil/Machine-downtime-tracker)**  
-Industrial machine monitoring and downtime management system built with React, Node.js, PostgreSQL and Docker.
+Machine monitoring and downtime management system built with React, Node.js, PostgreSQL and Docker.
 
-**[Bonfire](https://github.com/Kavin-Thamil/bonfire)**
+**[Bonfire](https://github.com/Kavin-Thamil/bonfire)**  
+A full-stack project exploring containerised development with Docker Compose, bringing together a frontend, backend and PostgreSQL database.
 
 **[EchoVerse](https://github.com/Kavin-Thamil/EchoVerse)**  
-Full-stack royalty-free music streaming platform built with Django and MySQL.
+A royalty-free music streaming platform built with Django and MySQL.
 
 **[Smart Employee Portal](https://github.com/Kavin-Thamil/Smart-Employee-Portal)**  
-Employee and document management platform built with Flask and AWS.
+An employee and document management platform built with Flask and AWS.
 
 **[Todo](https://github.com/Kavin-Thamil/Todo)**  
-Python-based project.
+A Python-based task management application.
 
 ---
 
 ### Contact
 
 [LinkedIn](https://linkedin.com/in/kavinthamil) · [Email](mailto:kavinthamil01@gmail.com)
+```
