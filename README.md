@@ -1,27 +1,47 @@
-# Hi there, I'm Kavin 👋
+# Kavin Thamil
 
-**Python / Django Developer & AWS Cloud Engineer**  
-I build production-ready web applications, design clean backend APIs, and deploy scalable cloud infrastructure.
+Software Developer | Full-Stack Development
 
----
+I build web applications, backend services and containerised systems, with an interest in software architecture, databases and application development.
 
-### 🛠️ Tech Stack
-
-* **Backend:** Python, Django, Flask, REST APIs, Django ORM
-* **Cloud & Infrastructure:** AWS (EC2, S3, VPC, RDS, ALB, CloudWatch, SNS), Linux, Git
-* **Databases:** MySQL, PostgreSQL
-* **Frontend & Web:** JavaScript (ES6+), Fetch API (AJAX), HTML5, CSS3, Bootstrap 5
+Currently working with React, Node.js, PostgreSQL and Docker.
 
 ---
 
-### 🚀 Featured Projects
+### Technologies
 
-* 🎧 **[EchoVerse](https://github.com/Kavin-Thamil/EchoVerse)** — Full-Stack Royalty-Free Music Streaming Platform built with Django, MySQL, and dynamic Fetch API player interactions.
-* ☁️ **[Smart Employee Portal](https://github.com/Kavin-Thamil/Smart-Employee-Portal)** — Cloud-native document management platform deployed on AWS using Flask, EC2, S3, RDS, ALB, and VPC.
+**Languages:** JavaScript, Python
+
+**Frontend:** React, HTML5, CSS3
+
+**Backend:** Node.js, Express.js, Django, Flask, REST APIs
+
+**Databases:** PostgreSQL, MySQL
+
+**Tools & Infrastructure:** Docker, Docker Compose, Git, Linux
+
+**Cloud:** AWS (EC2, S3, VPC, RDS, ALB, CloudWatch, SNS)
 
 ---
 
-### 📫 Connect With Me
+### Projects
 
-* **LinkedIn:** [linkedin.com/in/kavinthamil](https://linkedin.com/in/kavinthamil)
-* **Email:** kavinthamil01@gmail.com
+**[Machine Downtime Tracker](https://github.com/Kavin-Thamil/Machine-downtime-tracker)**  
+Industrial machine monitoring and downtime management system built with React, Node.js, PostgreSQL and Docker.
+
+**[Bonfire](https://github.com/Kavin-Thamil/bonfire)**
+
+**[EchoVerse](https://github.com/Kavin-Thamil/EchoVerse)**  
+Full-stack royalty-free music streaming platform built with Django and MySQL.
+
+**[Smart Employee Portal](https://github.com/Kavin-Thamil/Smart-Employee-Portal)**  
+Employee and document management platform built with Flask and AWS.
+
+**[Todo](https://github.com/Kavin-Thamil/Todo)**  
+Python-based project.
+
+---
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/kavinthamil) · [Email](mailto:kavinthamil01@gmail.com)
