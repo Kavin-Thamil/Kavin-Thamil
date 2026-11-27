@@ -1,11 +1,10 @@
-```markdown
 # Kavin Thamil
 
 Software Developer
 
-I enjoy building web applications, working with backend systems, and figuring out how things fit together.
+I enjoy building things, exploring new technologies and understanding how software works under the hood.
 
-Currently exploring full-stack development, databases and Docker.
+Currently focused on full-stack development, backend systems and containerisation.
 
 ---
 
@@ -25,26 +24,26 @@ Currently exploring full-stack development, databases and Docker.
 
 ---
 
-### Projects
+### Selected Projects
 
-**[Machine Downtime Tracker](https://github.com/Kavin-Thamil/Machine-downtime-tracker)**  
-Machine monitoring and downtime management system built with React, Node.js, PostgreSQL and Docker.
+**[Machine Downtime Tracker](https://github.com/Kavin-Thamil/Machine-downtime-tracker)**
 
-**[Bonfire](https://github.com/Kavin-Thamil/bonfire)**  
-A full-stack project exploring containerised development with Docker Compose, bringing together a frontend, backend and PostgreSQL database.
+A machine monitoring and downtime tracking application built with React, Node.js, PostgreSQL and Docker.
 
-**[EchoVerse](https://github.com/Kavin-Thamil/EchoVerse)**  
+**[Bonfire](https://github.com/Kavin-Thamil/bonfire)**
+
+A gaming backlog tracker for keeping tabs on games and randomly picking what to play next.
+
+**[EchoVerse](https://github.com/Kavin-Thamil/EchoVerse)**
+
 A royalty-free music streaming platform built with Django and MySQL.
 
-**[Smart Employee Portal](https://github.com/Kavin-Thamil/Smart-Employee-Portal)**  
-An employee and document management platform built with Flask and AWS.
+**[Smart Employee Portal](https://github.com/Kavin-Thamil/Smart-Employee-Portal)**
 
-**[Todo](https://github.com/Kavin-Thamil/Todo)**  
-A Python-based task management application.
+An employee and document management platform built with Flask and AWS.
 
 ---
 
-### Contact
+### Find Me
 
 [LinkedIn](https://linkedin.com/in/kavinthamil) · [Email](mailto:kavinthamil01@gmail.com)
-```
